@@ -1,0 +1,33 @@
+a { text-decoration: none; color: #00b6d6; }
+a:visited { text-decoration: none; color: #00b6d6; }
+
+.photo-credits {
+  position: absolute;
+  top: 720px;
+  margin-bottom: 5px;
+  padding-bottom: 5px;
+  font-size: 1em;
+}
+
+.photo-credits a {
+  text-decoration: none;
+  color: #859900;
+}
+
+.photo-credits a:visited {
+  text-decoration: none;
+  color: #B58900;
+}
+
+.slide {
+  font-family: Ubuntu;
+  background-color: #FDF6E3;
+  color: #93A1A1
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  vertical-align: middle;
+}
