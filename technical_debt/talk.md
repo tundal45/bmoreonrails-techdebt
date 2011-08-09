@@ -39,7 +39,7 @@ talk](doing_dishes.png)
 ![clean & clutter free kitchen](clean.jpg)
 
 <div class="photo-credits">
-  Photo:<a href="http://www.flickr.com/photos/king-molan/249807023/"> King Molan</a>
+  Photo:<a href="http://www.flickr.com/photos/king-molan/249807023/"> king-molan</a>
 </div>
 
 !SLIDE center
@@ -202,8 +202,7 @@ href="http://www.flickr.com/photos/benmillett/306074038/"> benmillett</a>
 
 <div class="photo-credits">
   Photo:<a
-href="http://www.flickr.com/photos/lazylikewally/3176959921">
-lazylikewally</a>
+href="http://www.flickr.com/photos/lazylikewally/3176959921"> lazylikewally</a>
 </div>
 
 !SLIDE center
