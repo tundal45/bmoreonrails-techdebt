@@ -9,6 +9,9 @@
 # Doing Dishes & Technical Debt #
 
 !SLIDE center
+# [http://bmoreonrails-techdebt.heroku.com/](http://bmoreonrails-techdebt.heroku.com/) #
+
+!SLIDE center
 ![Twitter conversation between Nick Gauthier & Avdi Grim that inspired this
 talk](doing_dishes.png)
 
