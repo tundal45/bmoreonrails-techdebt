@@ -222,6 +222,8 @@ href="http://www.flickr.com/photos/schneeman/3766882821"> schneeman</a>
 # shout-outs #
 
 * [Nick Gauthier](http://www.ngauthier.com/) for the topic idea
+* [Scott Chacon](http://scottchacon.com/) for [ShowOff](https://github.com/schacon/showoff)
 * [Solarized](http://ethanschoonover.com/solarized) for slide theme
   inspiration
 * [Rick Bradley's 2010 RailsConf Presentation](https://github.com/rick/presentation_railsconf_2010) for in-slide photo attribution code
+* [Josefin Sans Web Font](http://www.google.com/webfonts#QuickUsePlace:quickUse/Family:Josefin+Sans) from the awesome [Google Web Fonts API](http://www.google.com/webfonts)
